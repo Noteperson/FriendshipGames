@@ -1,0 +1,14 @@
+Team: /pnk/
+ID: 833
+
+Team Colours:
+- 1st: 255 153 000
+- 2nd: 000 000 000
+
+Kit Colours:
+- 1st Player: #fc52a7 - #52a7fc
+- 2nd Player: #fab3d0 - #f7458c
+
+- 1st GK: #a752fc - #3a007b
+
+Other Notes:

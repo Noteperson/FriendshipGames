@@ -1,0 +1,15 @@
+Team: /eqg/
+ID: 835
+
+Team Colours:
+- 1st: 255 153 000
+- 2nd: 000 000 000
+
+Kit Colours:
+- 1st Player: #d8d8d8 - #2e1263
+- 2nd Player: #840f63 - #FFFFFF
+- 3rd Player: #84499c - #fcf8b5
+
+- 1st GK: #292829 - #bd2840
+
+Other Notes:

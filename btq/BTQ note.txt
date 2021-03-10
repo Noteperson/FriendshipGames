@@ -1,0 +1,11 @@
+Team: /btq/
+
+Team Colours:
+- 1st: 237 239 241
+- 2nd: 095 081 164
+
+Kit Colours:
+- 1st player: 244 147 186 - 216 079 137
+- 2nd player: 112 211 214 - 104 170 214
+
+- 1st GK: 255 215 236 - 255 253 249

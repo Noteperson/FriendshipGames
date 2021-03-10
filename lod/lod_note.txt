@@ -1,0 +1,14 @@
+Team: /lod/
+
+Team Colours:
+- 1st: 253 0 2
+- 2nd: 0 0 0
+
+Kit Colours:
+- 1st player: 130 130 130 - 130 130 130
+- 2nd player: 130 130 130 - 130 130 130
+
+- 1st GK: 0 0 0 - 0 0 0
+
+Other Notes:
+-

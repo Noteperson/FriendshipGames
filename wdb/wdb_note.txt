@@ -1,0 +1,11 @@
+Team: /wdb/
+
+Team Colours:
+- 1st: 101 162 225
+- 2nd: 253 255 140
+
+Kit Colours:
+- 1st player: 101 162 225 - 101 162 225
+- 2nd player: 188 193 197 - 188 193 197
+
+- 1st GK: 42 87 155 - 42 87 155

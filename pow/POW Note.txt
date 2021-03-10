@@ -1,0 +1,20 @@
+Team: /pow/
+ID: 836
+
+Team Colours:
+- 1st: 255 153 000
+- 2nd: 000 000 000
+
+Kit Colours:
+- 1st Player: #131c34 - #f7fcf7
+- 2nd Player: #2c4386 - #50cefa
+- 3rd PLayer: #b52247 - #212b1b
+- 4th Player: #f4f7f4 - #d669f7
+- 5th Player: #9f2a50 - #d6d7d6
+- 6th Player: #b22073 - #bdbcd3
+- 7th Player: #8465a2 - #2c4979
+- 8th Player: #9c1e9c - #42424a
+
+- 1st GK: #21cdb5 - #8f3d94
+
+Other Notes:

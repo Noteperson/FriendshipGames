@@ -1,0 +1,15 @@
+Team: /gay/
+ID: 244
+
+Team Colours:
+- 1st: 203 241 104
+- 2nd: 247 170 064
+
+Kit Colours:
+- 1st Player: #f7aa40 - #45943c
+- 2nd Player: #10615a - #4d368c
+
+- 1st GK: #b2dce3 - #f18d98
+
+Other Notes:
+The entirety of the /gay/ management, me included, hate /bug/ amd want nothing to do with them

@@ -1,0 +1,15 @@
+Team: /csu/
+
+Team Colours:
+- 1st: 87 163 239 
+- 2nd: 160 209 252
+
+Kit Colours:
+- 1st player: 239 243 247 - 247 239 165
+- 2nd player: 132 223 222 - 206 251 189
+- 3rd player: 132 223 222 - 206 251 189
+
+- 1st GK: 255 255 255 - 255 255 255
+
+Other Notes:
+-

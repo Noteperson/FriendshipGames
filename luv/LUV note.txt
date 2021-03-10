@@ -1,0 +1,16 @@
+Team: /LUV/
+
+Team Colours:
+- 1st: 000 255 255
+- 2nd: 255 000 255
+- 3rd: 255 175 000
+- 4th: 255 175 255
+
+Kit Colours:
+- 1st player: 224 234 252 - 060 197 255
+- 2nd player: 224 234 252 - 255 000 178
+
+- 1st GK: 224 234 252 - 255 216 000
+
+Other Notes:
+-

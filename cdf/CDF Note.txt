@@ -1,0 +1,14 @@
+Team: /cdf/
+ID: 839
+
+Team Colours:
+- 1st: 255 153 000
+- 2nd: 000 000 000
+
+Kit Colours:
+- 1st Player: #700000 - #dedfe6
+- 2nd Player: #ffba52 - #fcfaaf
+
+- 1st GK: #0e0019 - #c50063
+
+Other Notes:
