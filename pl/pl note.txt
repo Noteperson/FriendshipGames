@@ -1,0 +1,18 @@
+Team: /pl/
+
+Team Colors:
+- 1st: #00C6C2
+- 2nd: #FFFFFF
+
+Kit Colors:
+- 1st Player: #E8C68B - #F4F1B0 - 15
+- 2nd Player: #A5C0DE - #3E9ACD - 15
+- 3rd Player: #C8AAD3 - #3D2570 - 15
+- 4th Player: #ECEAF2 - #806BC0 - 15
+- 5th Player: #F7F6C0 - #D289C1 - 15
+
+- 1st GK: #EFA6CE - #CE3994 - 15
+
+Other Notes:
+-
+
