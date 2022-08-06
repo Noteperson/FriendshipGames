@@ -1,13 +1,12 @@
 Team: /sdb/
-ID: 834
 
 Team Colours:
-- 1st: 255 153 000
-- 2nd: 000 000 000
+- 1st: 156 68 155
+- 2nd: 255 243 168
 
 Kit Colours:
 - 1st Player: #651a4d - #3a3163
 - 2nd Player: #651a4d - #3a3163
-
 - 1st GK: #521a45 - #1e4c63
+
 Other Notes:
