@@ -1,0 +1,11 @@
+Team: /fil/
+
+Team Colours:
+- 1st: #FF95E2
+- 2nd: #FFEA7D
+
+Kit Colours:
+- 1st player: #ffffff - #C37596
+- 2nd player: #ffffff - #C37596
+
+- 1st GK: #FFD5D3 - #91D8EC

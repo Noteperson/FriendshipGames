@@ -1,11 +1,11 @@
 Team: /oc/
 
 Team Colours:
-- 1st: 186 237 168
+- 1st: 77 219 20
 - 2nd: 000 000 000
 
 Kit Colours:
-- 1st player: 186 237 168 - 186 237 168
+- 1st player: 77 219 20 - 77 219 20
 - 2nd player: 58 83 158 - 58 83 158
 
 - 1st GK: 0 0 0 - 0 0 0

@@ -3,6 +3,7 @@
   <Entries>
     <Entry FilePath="face_diff.bin" />
     <Entry FilePath="hair_high.fmdl" />
+    <Entry FilePath="face_high.fmdl" />
   </Entries>
   <References />
 </ArchiveFile>
