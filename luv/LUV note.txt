@@ -9,7 +9,6 @@ Team Colours:
 Kit Colours:
 - 1st player: 224 234 252 - 060 197 255
 - 2nd player: 224 234 252 - 255 000 178
-- 3rd player: 198 000 255 - 024 020 033
 
 - 1st GK: 224 234 252 - 255 216 000
 

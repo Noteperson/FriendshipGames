@@ -1,0 +1,11 @@
+Team: /bug/
+Team Colours:
+- 1st: #000000
+- 2nd: #6bff00
+Kit Colours:
+- 1st player: #000000 - #6bff00
+- 2nd player: #000000 - #6bff00
+- 3rd player: #000000 - #6bff00
+- 1st GK: #000000 - #6bff00
+Other Notes:
+- Everyone knows that Twilight is best pony

@@ -1,0 +1,10 @@
+Team: /sun/
+
+Team Colours:
+- 1st: #FDFDFD
+- 2nd: #FCA000
+
+Kit Colours:
+- 1st player: #FF4400 - #FF0000
+- 2nd player: #FDFDFD - #FCA000
+- 1st GK: #351105 - #BE4E1C
