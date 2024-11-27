@@ -1,0 +1,142 @@
+<materialset>
+  <material name="fox_eyeOcclusion_mat" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./eye_occlusion_alp.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="fox_skin_mat" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./face.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="0" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="face_high_fox_hair_mat_twosided_1" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./hair_col.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="0" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="0" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="1" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="face_high_fox_hair_mat_twosided_2" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./hair_parts_col.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="0" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="0" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="1" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="boots_fox_hair_mat" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./Dark Boris Head Combined.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="0" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="0" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="1" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="hat" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./hat.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="glasses" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./glasses.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="Boris Jacket" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./Riggerbody.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="Boris Hands" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./arm_1_bsm.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="Computer Fire" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./Applejack Screen.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="Applekits" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./Dark Boris Pony Kit.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="Dark Boris Combined Head" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./Dark Boris Head Combined.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="Dusty" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./Dusty.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="Joe" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./Joe.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+</materialset>

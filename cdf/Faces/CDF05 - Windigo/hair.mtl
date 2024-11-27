@@ -1,0 +1,51 @@
+<materialset>
+  <material name="hairTubeShader" shader="Pony">
+     <state name="ztest" value="1" />
+     <state name="zwrite" value="1" />
+     <state name="twosided" value="1" />
+     <state name="alphatest" value="0" />
+     <state name="alpharef" value="0" />
+     <state name="alphablend" value="1" />
+     <state name="blendmode" value="0" />
+     <sampler name="DiffuseMap" path="./hair_col.dds" srgb="1" minfilter="linear" magfilter="linear" uaddr="clamp" vaddr="clamp" />
+     <sampler name="SpecularMap" path="./hair_spe.dds" srgb="0" minfilter="linear" magfilter="linear" />
+     <vector name="HairColor" x="1" y="1" z="1" w="1" />
+     <vector name="HairRimParam1" x="0.75" y="10.0" z="2.0" w="0.15" />
+     <vector name="HairRimParam2" x="1.0" y="0.01" z="0.0" w="0.0" />
+  </material>
+  <material name="hairTubeShader_f" shader="Pony">
+     <state name="ztest" value="1" />
+     <state name="zwrite" value="1" />
+     <state name="twosided" value="1" />
+     <state name="alphatest" value="0" />
+     <state name="alpharef" value="0" />
+     <state name="alphablend" value="1" />
+     <state name="blendmode" value="0" />
+     <sampler name="DiffuseMap" path="./hair_col.dds" srgb="1" minfilter="linear" magfilter="linear" uaddr="clamp" vaddr="clamp" />
+     <sampler name="SpecularMap" path="./hair_spe.dds" srgb="0" minfilter="linear" magfilter="linear" />
+     <vector name="HairColor" x="1" y="1" z="1" w="1" />
+     <vector name="HairRimParam1" x="0.75" y="10.0" z="2.0" w="0.15" />
+     <vector name="HairRimParam2" x="1.0" y="0.01" z="0.0" w="0.0" />
+  </material>
+<material name="head_phong" shader="Pony">
+
+     <sampler name="DiffuseMap" path="./face.dds" srgb="1" minfilter="linear" magfilter="linear" uaddr="clamp" vaddr="clamp" />
+
+</material>
+
+<material name="hairparts_htShader" shader="Pony">
+     <state name="ztest" value="1" />
+     <state name="zwrite" value="1" />
+     <state name="twosided" value="1" />
+     <state name="alphatest" value="1" />
+     <state name="alpharef" value="254" />
+     <state name="alphablend" value="1" />
+     <state name="blendmode" value="0" />
+     <sampler name="DiffuseMap" path="./hair_parts_col.dds" srgb="1" minfilter="linear" magfilter="linear" uaddr="clamp" vaddr="clamp" />
+     <sampler name="SpecularMap" path="./hair_parts_spe.dds" srgb="0" minfilter="linear" magfilter="linear" />
+     <vector name="HairColor" x="1" y="1" z="1" w="1" />
+     <vector name="HairRimParam1" x="0.75" y="10.0" z="2.0" w="0.15" />
+     <vector name="HairRimParam2" x="1.0" y="0.01" z="0.0" w="0.0" />
+  </material>
+</materialset>
+

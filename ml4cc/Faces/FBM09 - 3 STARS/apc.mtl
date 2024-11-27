@@ -1,0 +1,42 @@
+<materialset>
+	<material name="mlp" shader="Basic_C">
+		<state name="alpharef" value="0" />
+		<state name="blendmode" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="twosided" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+		<sampler name="DiffuseMap" path="./Mlp_logo.dds" srgb="1" minfilter="linear" magfilter="linear" />
+	</material>
+	<material name="fit" shader="Basic_C">
+		<state name="alpharef" value="0" />
+		<state name="blendmode" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="twosided" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+		<sampler name="DiffuseMap" path="./Fit_logo.dds" srgb="1" minfilter="linear" magfilter="linear" />
+	</material>
+	<material name="u" shader="Basic_C">
+		<state name="alpharef" value="0" />
+		<state name="blendmode" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="twosided" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+		<sampler name="DiffuseMap" path="./U_logo.dds" srgb="1" minfilter="linear" magfilter="linear" />
+	</material>
+	<material name="sp" shader="Basic_C">
+		<state name="alpharef" value="0" />
+		<state name="blendmode" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="twosided" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+		<sampler name="DiffuseMap" path="./Sp_logo.dds" srgb="1" minfilter="linear" magfilter="linear" />
+	</material>
+</materialset>

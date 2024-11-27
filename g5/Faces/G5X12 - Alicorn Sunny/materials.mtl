@@ -1,0 +1,52 @@
+<materialset>
+  <material name="fox_skin_mat.001" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./body.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="0" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="fox_head_shell_mat.001" shader="Basic_C">
+    <sampler name="DiffuseMap" path="./body.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="1" />
+    <state name="twosided" value="1" />
+    <state name="alphatest" value="1" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="0" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="fox_hair_mat.003" shader="Shadeless">
+    <sampler name="DiffuseMap" path="./wings.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="0" />
+    <state name="twosided" value="0" />
+    <state name="alphatest" value="0" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="1" />
+    <state name="blendmode" value="0" />
+  </material>
+  <material name="fox_skin_mat.002" shader="Shadeless">
+    <sampler name="DiffuseMap" path="./horn.dds" srgb="1" minfilter="linear" magfilter="linear" />
+    <state name="ztest" value="1" />
+    <state name="zwrite" value="0" />
+    <state name="twosided" value="0" />
+    <state name="alphatest" value="0" />
+    <state name="alpharef" value="0" />
+    <state name="alphablend" value="1" />
+    <state name="blendmode" value="0" />
+  </material>
+	<material name="skin_limb" shader="Basic_C">
+		<sampler name="DiffuseMap" path="./skin.dds" srgb="1" minfilter="linear" magfilter="linear" mipfilter="linear" uaddr="clamp" vaddr="clamp" waddr="wrap" maxaniso="2" />
+		<state name="twosided" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="alpharef" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="blendmode" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+	</material>
+</materialset>
