@@ -16,7 +16,7 @@
     <state name="twosided" value="0" />
     <state name="alphatest" value="1" />
     <state name="alpharef" value="0" />
-    <state name="alphablend" value="0" />
+    <state name="alphablend" value="1" />
     <state name="blendmode" value="0" />
   </material>
   <material name="fox_head_shell_mat" shader="Basic_C">

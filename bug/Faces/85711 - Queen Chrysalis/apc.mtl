@@ -1,0 +1,93 @@
+<materialset>
+	<material name="mane" shader="Basic_C">
+		<state name="alpharef" value="0" />
+		<state name="blendmode" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="twosided" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+		<sampler name="DiffuseMap" path="./mane.dds" srgb="1" minfilter="linear" magfilter="linear" uaddr="clamp" vaddr="clamp" />
+	</material>
+	<material name="crown" shader="Basic_C">
+		<state name="alpharef" value="0" />
+		<state name="blendmode" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="twosided" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+		<sampler name="DiffuseMap" path="./head.dds" srgb="1" minfilter="linear" magfilter="linear" uaddr="clamp" vaddr="clamp" />
+	</material>
+	<material name="eye_l" shader="Basic_C">
+		<state name="alpharef" value="0" />
+		<state name="blendmode" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="twosided" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+		<sampler name="DiffuseMap" path="./eye_l.dds" srgb="1" minfilter="linear" magfilter="linear" uaddr="clamp" vaddr="clamp" />
+	</material>
+	<material name="eye_r" shader="Basic_C">
+		<state name="alpharef" value="0" />
+		<state name="blendmode" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="twosided" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+		<sampler name="DiffuseMap" path="./eye_r.dds" srgb="1" minfilter="linear" magfilter="linear" uaddr="clamp" vaddr="clamp" />
+	</material>
+	<material name="horn" shader="Basic_C">
+		<state name="alpharef" value="0" />
+		<state name="blendmode" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="twosided" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+		<sampler name="DiffuseMap" path="./horn.dds" srgb="1" minfilter="linear" magfilter="linear" uaddr="clamp" vaddr="clamp" />
+	</material>
+	<material name="skin_limb" shader="Basic_C">
+		<sampler name="DiffuseMap" path="./skin.dds" srgb="1" minfilter="linear" magfilter="linear" mipfilter="linear" uaddr="clamp" vaddr="clamp" waddr="wrap" maxaniso="2" />
+		<state name="twosided" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="alpharef" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="blendmode" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+	</material>
+	<material name="uni_shirts" shader="Simple">
+		<sampler name="DiffuseMap" path="./wing.dds" srgb="1" minfilter="linear" magfilter="linear" mipfilter="linear" uaddr="clamp" vaddr="clamp" waddr="wrap" maxaniso="2" />
+		<state name="twosided" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="alpharef" value="0" />
+		<state name="alphablend" value="1" />
+		<state name="blendmode" value="0" />
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+	</material>
+	<material name="uni_pants" shader="Pants_NB">
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+		<state name="twosided" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="alpharef" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="blendmode" value="0" />
+		<sampler name="NormalMap" path="./pants_nrm.dds" srgb="0" minfilter="linear" magfilter="linear" uaddr="clamp" vaddr="clamp"/>
+		<sampler name="DetailMaterialMap" path="./pants_pattern_mtm.dds" srgb="0" minfilter="linear" magfilter="linear" uaddr="repeat" vaddr="repeat"/>
+		<sampler name="DetailNormalMap" path="./pants_pattern_nrm.dds" srgb="0" minfilter="linear" magfilter="linear" uaddr="repeat" vaddr="repeat"/>
+	</material>
+	<material name="uni_socks" shader="Uniform">
+		<state name="ztest" value="1" />
+		<state name="zwrite" value="1" />
+		<state name="twosided" value="0" />
+		<state name="alphatest" value="0" />
+		<state name="alpharef" value="0" />
+		<state name="alphablend" value="0" />
+		<state name="blendmode" value="0" />
+	</material>
+</materialset>
