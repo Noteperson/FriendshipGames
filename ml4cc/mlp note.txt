@@ -1,0 +1,18 @@
+Team: /ml4cc/
+
+Team Colors:
+- 1st: 153 051 204
+- 2nd: 000 255 255
+
+Kit Colors:
+- 1st Player: #84499c - #263873 - 15
+- 2nd Player: #bdf0ff - #18a3d6 - 15
+- 3rd Player: #f1f1f4 - #6b4fa7 - 15
+- 4th Player: #ffba52 - #fcf9af - 15
+- 5th Player: #fcf4a4 - #fcb7d8 - 15
+- 6th Player: #f9b3d0 - #f7438c - 15
+- 7th Player: #f18218 - #3c3c3c - 3
+- 8th Player: #70ba2e - #0d0e0d - 15
+- 9th Player: #355198 - #2433a8 - 15
+
+- 1st GK: #2433a8 - #314b8f - 15
